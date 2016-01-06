@@ -1,0 +1,22 @@
+{
+  "name": "impress-step-timer",
+  "private": "true",
+  "version": "0.0.1",
+  "authors": [
+    "Vasileios Triglianos"
+  ],
+  "description": "Populates ASQ questions with their solutions.",
+  "main": "display-asq-solutions.js",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "ASQ",
+    "asq solutions"
+  ],
+  "license": "MIT"
+}
